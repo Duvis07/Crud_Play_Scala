@@ -1,2 +1,1 @@
-
-Crud movies Scala
+Crud movies Scala con play framework
